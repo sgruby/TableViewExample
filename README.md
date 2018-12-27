@@ -15,7 +15,7 @@ This example shows how to create a UITableView with cells that have text and ima
 * Rotating the device must work.
 
 
-Please see my blog post at: 
+Please see my blog post at: [https://blog.gruby.com/2018/12/27/auto-layout-in-a-uitableviewcell-with-an-image/](https://blog.gruby.com/2018/12/27/auto-layout-in-a-uitableviewcell-with-an-image/).
 
 
 Credits
